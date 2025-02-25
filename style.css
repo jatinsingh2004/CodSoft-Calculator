@@ -58,3 +58,19 @@ button{
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1);
     cursor: pointer;
 }
+
+
+
+.equalBtn{
+    background-color: #fb7c14;
+}
+
+.operator{
+    color: #6dee0a;
+}
+#boder{
+    border: 2px solid yellow;
+    border-radius: 50%;
+    object-fit: cover;
+    background-size: cover;
+}
