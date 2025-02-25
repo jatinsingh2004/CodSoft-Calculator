@@ -15,3 +15,13 @@ body{
     align-items: center;
     background: linear-gradient(45deg, #4a0404, #04449d);
 }
+
+
+.calculator{
+    border: 1px solid #e8091c;
+    padding: 20px;
+    border-radius: 16px;
+    background: transparent;
+    box-shadow: 0px 3px 15px rgba(2, 66, 63, 0.5);
+
+}
